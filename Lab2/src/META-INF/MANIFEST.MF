@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+ru.billing.client.Main-Class: ru.billing.client.Main
+
